@@ -10,7 +10,7 @@ int main(){
     int count=0;
     int j=0;
     for(int i=0;i<S.length();i++){
-        if(S[i]==S[j]){
+        if(S[i]==S1[j]){
             j++;
             count++;
             if(count==5){
