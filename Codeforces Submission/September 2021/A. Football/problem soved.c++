@@ -9,13 +9,13 @@ int main(){
     while (i<S.length())
     {
          if(S[i]==S[i+1]){
-               n++;
-               if(n==6){
-                   cout<<"YES";
-                   break;
-               }
-           }else{
-               n=0;
+            n++;
+            if(n==6){
+                cout<<"YES";
+                break;
+            }
+        }else{
+            n=0;
                
            }
            i++;
