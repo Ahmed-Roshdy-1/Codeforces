@@ -3,7 +3,8 @@
     "*.tcc": "cpp",
     "list": "cpp",
     "random": "cpp",
-    "array": "cpp"
+    "array": "cpp",
+    "ostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled"
 }
