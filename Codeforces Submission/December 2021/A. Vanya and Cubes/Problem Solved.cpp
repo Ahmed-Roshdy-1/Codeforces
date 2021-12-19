@@ -9,7 +9,5 @@ int main(){
       a+=i; c+=a;
   }
   cout<<i-2;
-  
-    
     return 0;
 }
